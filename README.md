@@ -1,2 +1,3 @@
-# convert-the-first-letter-of-a-string-into-upperCase
- Practice Example
+# Convert-the-first-letter-of-a-string-into-upperCase
+JavaScript Practice Example.
+
